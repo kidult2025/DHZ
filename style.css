@@ -123,8 +123,8 @@ body.night-mode .category-title {
   color: #1d1d1f;
 }
 .cards {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
   gap: 24px;
 }
 .card {
@@ -132,7 +132,6 @@ body.night-mode .category-title {
   border-radius: 18px;
   box-shadow: 0 2px 12px rgba(0,0,0,0.07);
   padding: 24px 20px 18px 20px;
-  width: 270px;
   min-height: 120px;
   display: flex;
   flex-direction: column;
