@@ -8,7 +8,7 @@
           {
             "title": "Napkin AI",
             "url": "https://www.napkin.ai/",
-            "describe": "The visual AI for business storytelling"
+            "describe": "Napkin turns your text into visuals so sharing your ideas is quick and effective"
           },
           {
             "title": "PowerPresent AI",
@@ -19,6 +19,56 @@
             "title": "Beautiful.ai",
             "url": "https://www.beautiful.ai/",
             "describe": "AI Presentation Maker | Make it Beautiful with Beautiful.ai"
+          },
+          {
+            "title": "PPT AI",
+            "url": "https://ppt.ai/",
+            "describe": "AI Presentation Maker, Fast and Easy | PPT.AI"
+          },
+          {
+            "title": "PPTX AI",
+            "url": "https://pptx.ai/",
+           "describe": " Artificial Intelligence for PowerPoint and Google Slides"
+          },
+          {
+            "title": "SlidesAI",
+            "url": "https://www.slidesai.io/zh",
+            "describe":  "Free AI-powered presentation creation tool | Use AI to generate slides"
+          },
+          {
+            "title": "SlidesGPT",
+            "url": "https://slidesgpt.com/",
+           "describe":  "AI PowerPoint Generator, Slideshow Maker, PPT Maker"
+          },
+          {
+            "title": "Presentations AI",
+            "url": "https://www.presentations.ai/?r=0",
+            "describe":  " Presentations.AI - ChatGPT for Presentations"
+          },
+          {
+            "title": "Pictory ",
+            "url": "https://pictory.ai/",
+            "describe": " Easy Video Creation For EVERYONE"
+          },
+          {
+            "title": "magicslides",
+            "url": "https://www.magicslides.app/zh",
+            "describe":  "AI Presentation Maker - Presentation from Topic, YouTube, PDF, URL with AI"
+          },
+          {
+            "title": "Decktopus AI",
+            "url": "https://www.decktopus.com/",
+            "describe":  " Make presentations with AI | AI Presentation Assistant"
+          },
+          {
+            "title": "Piktochart",
+            "url": "https://piktochart.com/",
+           "describe":  "Infographic Maker Trusted By 14 Million Users - Piktochart"
+          },
+          {
+            "title": "Pitch",
+            "url": "https://pitch.com/",
+            "describe":  "Presentation software for fast-moving teams"
           },
           {
             "title": "ChatPPT",
@@ -40,22 +90,12 @@
             "url": "https://www.chatba.com/",
             "describe": "Generative AI for Slides ✨"
           },
-          {
-            "title": "Decktopus AI",
-            "url": "https://www.decktopus.com/",
-            "describe": "Make presentations with AI | AI Presentation Assistant"
-          },
-          {
+         {
             "title": "Chronicle",
             "url": "https://chroniclehq.com/",
-            "describe": "Chronicle"
+            "describe": "A new, easyway to create"
           },
-          {
-            "title": "SlidesAI",
-            "url": "https://www.slidesai.io/zh",
-            "describe": "免费的人工智能演示制作工具|使用 AI 生成幻灯片"
-          },
-          {
+         {
             "title": "MindShow",
             "url": "https://www.mindshow.fun/#/home",
             "describe": "AI PPT, Make Slides Easy"
@@ -102,7 +142,8 @@
           },
           {
             "title": "Levidio Animatoon",
-            "url": "https://levidio.com/animatoon/"
+            "url": "https://levidio.com/animatoon/",
+            "describe": "Create Better and Enchanting VideosNow as easy as 1 - 2 - 3"
           },
           {
             "title": "infograpify",
@@ -177,7 +218,7 @@
           {
             "title": "OneKeyTools",
             "url": "http://oktools.xyz/",
-            "describe": "none"
+            "describe": "Offering PPT designers a wealth of features, including shapes, color schemes, 3D effects, image processing, audio, tables, charts, and auxiliary tools."
           },
           {
             "title": "Office Tool Plus",
@@ -202,7 +243,7 @@
           {
             "title": "Ludus",
             "url": "https://ludus.one/",
-            "describe": ""
+            "describe": "The presentation tool that combines creativity with simplicity... and a bit of magic"
           },
           {
             "title": "Pitch",
@@ -261,35 +302,43 @@
         "links": [
           {
             "title": "The Bézier Game",
-            "url": "https://bezier.method.ac/"
+            "url": "https://bezier.method.ac/",
+            "describe": "A game that helps you master the pen tool"
           },
           {
             "title": "Can't Unsee",
-            "url": "https://cantunsee.space/"
+            "url": "https://cantunsee.space/",
+            "describe":"You can practice grasping details in I interface design online by choosing the correct design from two similar designs."
           },
           {
             "title": "The Boolean Game",
-            "url": "https://boolean.method.ac/"
+            "url": "https://boolean.method.ac/",
+            "describe":"A website for online learning and practicing Boolean operations, making it easy to understand how to draw irregular shapes."
           },
           {
             "title": "Kern Type",
-            "url": "https://type.method.ac/"
+            "url": "https://type.method.ac/",
+            "describe":"A website for learning how to adjust letter spacing"
           },
           {
             "title": "Color Game",
-            "url": "https://color.method.ac/"
+            "url": "https://color.method.ac/",
+            "describe":"A website for learning color matching games"
           },
           {
             "title": "It's Centred That | Test Your Designer Eye",
-            "url": "https://avark.agency/designers-eye/"
+            "url": "https://avark.agency/designers-eye/",
+            "describe":"A website for a game that helps learn how to determine if a point is truly at the center of a shape."
           },
           {
             "title": "What the Hex?",
-            "url": "http://yizzle.com/whatthehex/"
+            "url": "http://yizzle.com/whatthehex/",
+            "describe":"Guess which color below matches the given hex code."
           },
           {
             "title": "Shape Type",
-            "url": "https://shape.method.ac/"
+            "url": "https://shape.method.ac/",
+            "describe":"SHAPE TYPEa letter shaping game."
           },
           {
             "title": "KOLOR",
@@ -298,11 +347,13 @@
           },
           {
             "title": "Ueye",
-            "url": "https://designcourse.com/app/course/ueye"
+            "url": "https://designcourse.com/app/course/ueye",
+            "describe":"For learning knowledge related to UI design"
           },
           {
             "title": "Spot the Difference",
-            "url": "https://tikolu.net/spot-the-difference/menu"
+            "url": "https://tikolu.net/spot-the-difference/menu",
+            "describe":"A website for learning how to quickly choose differently colored squares between two grids."
           },
           {
             "title": "White 200",
@@ -479,7 +530,8 @@
           },
           {
             "title": "Home • Ceacle Mockup",
-            "url": "https://mockup.ceacle.com/"
+            "url": "https://mockup.ceacle.com/",
+            "describe": "45351 ITEMS ,293 SCENES ,1165 TEXTURES.Mockup system ,For scene creation,And more"
           },
           {
             "title": "Mockups-Design.com",
@@ -680,7 +732,8 @@
           },
           {
             "title": "站酷",
-            "url": "https://www.zcool.com.cn/"
+            "url": "https://www.zcool.com.cn/",
+            "describe": "Designer interaction platform"
           },
           {
             "title": "Muzli",
